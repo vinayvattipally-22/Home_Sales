@@ -1,0 +1,15 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# PySpark
+/__pycache__/
+*.pyc
+
+# SQL
+*.sql
+
+# Parquet
+*.parquet
+
+# Cache of Parquet
+/cache/
